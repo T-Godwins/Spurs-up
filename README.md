@@ -6,7 +6,7 @@
 - **League Creation & Management**: Set up and manage leagues, divisions, and tournaments.
 - **Team Registration**: Easy team signup and roster management.
 - **Scheduling**: Automated and manual game scheduling with calendar sync.
-- **Score Tracking**: Real-time score updates and access to match history.
+- **Score Tracking**: Real-time score updates and access to match history. (Updated by Refs)
 - **Notifications**: Alerts for upcoming games, cancellations, and updates.
 
 ## Getting Started
