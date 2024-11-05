@@ -19,5 +19,4 @@
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express, PostgreSQL
 - **Hosting**: AWS or Azure
-
 --- 
