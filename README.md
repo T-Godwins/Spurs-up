@@ -18,5 +18,5 @@
 ## Tech Stack
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express, PostgreSQL
-- **Hosting**: AWS or Azure
+- **Hosting**: AWS, Azure or GCP
 --- 
